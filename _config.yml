@@ -11,15 +11,14 @@ title                    : # "Your Name / Site Title"
 title                    : "Haidong Wang"
 title_separator          : "-"
 name                     : &name "Haidong Wang"
-description              : &description "personal description"
+description              : &description "Master's student. School of Electronic and Information Engineering, Beihang University."
 url                      : https://cleartune.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cleartune/cleartune.github.io"
+repository               : "ClearTune/cleartune.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-timezone                 : Asia/Shanghai
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -83,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Haidong Wang"
-  avatar           : "profile.png"
-  bio              : "Master student in Electronic and Information Engineering Department, Beihang University, China."
+  avatar           : "HaidongWang.png"
+  bio              : "Master's student. School of Electronic and Information Engineering, Beihang University."
   location         : "Beijing, China"
   employer         :
   googlescholar    :
