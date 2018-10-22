@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-# title                    : "Your Name / Site Title"
+title                    : # "Your Name / Site Title"
 title                    : "Haidong Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Haidong Wang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cleartune.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cleartune/cleartune.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Haidong Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Master student in Electronic and Information Department, Beihang University, China."
+  location         : "Beijing, China"
   employer         :
   googlescholar    :
-  email            :
+  email            : "mailto:whdtune@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/haidong-wang-9334116a/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
