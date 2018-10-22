@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haidong Wang's site"
+title                    : "Haidong Wang"
 title_separator          : "-"
 name                     : &name "Haidong Wang"
 description              : &description "Master's student. School of Electronic and Information Engineering, Beihang University"
