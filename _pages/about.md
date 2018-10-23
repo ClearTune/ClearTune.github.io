@@ -10,7 +10,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="https://cleartune.github.io/images/me.jpg?raw=true" alt="Photo" style="width:450px;" />
+  <img src="https://cleartune.github.io/images/Me.jpg?raw=true" alt="Photo" style="width:450px;" />
 </p>
 
 - I'm a master's student in [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/) of [Beihang University](http://www.buaa.edu.cn). I received my Bachelor's degree in [Beihang University](http://www.buaa.edu.cn) in 2016. [[Curriculum Vitae]](https://cleartune.github.io/files/CV_HaidongWang.pdf)
