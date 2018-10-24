@@ -1,9 +1,9 @@
 ---
-title: "An Environmentally Adaptive Positioning Method Based on Integration"
+title: "An Environmentally Adaptive Positioning Method Based on Integration of GPS/DTMB/FM"
 collection: publications
 permalink: /publication/GPS_DTMB_FM
-date: 2018
-venue: 'Sensors'
+date: 2018-10-24
+# venue: 'Sensors'
 # paperurl: 'https://cleartune.github.io/files/paper1.pdf'
 citation: 'Li Cong, <b>Haidong Wang</b>, Honglei Qin, Luqi Liu. In submission to <i>Sensors</i>.'
 ---
