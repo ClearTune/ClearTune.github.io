@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- - **Excellent Bachelor Thesis** (Top 1%)[[PDF]](https://cleartune.github.io/files/Paper_Fingerprint.pdf), Beihang University, 2016 -->
-- **Excellent Bachelor Thesis** (Top 1%)<a href="https://cleartune.github.io/files/Paper_Fingerprint.pdf">[PDF]</a>, Beihang University, 2016
+- **Excellent Bachelor Thesis** (Top 1%)<a href="https://cleartune.github.io/files/Paper_Fingerprint.pdf">[PDFtest]</a>, Beihang University, 2016
 - **Second Prize** in National Undergraduate Electronic Design Contest, Beijing Division, 2015. 
 - **Second Prize** in "Feng Ru Cup" Competition of Academic and Technological Works, Beihang University, 2015.
 - **Excellent Student**, Beihang University, 2013 
