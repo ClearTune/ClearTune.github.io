@@ -9,7 +9,7 @@ redirect_from:
 
 
 <!-- ## SignatureAuth -->
-<b fontsize=16pt>SignatureAuth</b>, Team leader
+<b style="font-size:16pt">SignatureAuth</b>, Team leader
 - Built an identity authentication system based on motion classification of the signing pens using support vector machine. 
 - Second Prize, "Feng Ru Cup" Competition of Academic and Technological Works of Beihang University, 2015.
 - My contribution: individually completed wavelet feature extraction, MATLAB GUI implementation and software debugging, participated in design of algorithm flow. 
