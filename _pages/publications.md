@@ -16,11 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 
-**[A Real-time Pedestrian Dead Reckoning System with FM-aided Motion Mode Recognition](/publications/PDR/)**
+<b>[A Real-time Pedestrian Dead Reckoning System with FM-aided Motion Mode Recognition](/publication/PDR/)</b> <br>
+<b>Haidong Wang</b>, Li Cong, Honglei Qin, <i>IEEE Sensors Journal</i>, 2018 (Under minor revision)
 
-**Haidong Wang**, Li Cong, Honglei Qin, *IEEE Sensors Journal*, 2018 (Under minor revision)
 
-
-**[An Environmentally Adaptive Positioning Method Based on Integration of GPS/DTMB/FM](/publications/GPS_DTV_FM/)**
-
-Li Cong, **Haidong Wang**, Honglei Qin, Luqi Liu, *Sensors*, 2018 (In submission)
+<b>An Environmentally Adaptive Positioning Method Based on Integration of GPS/DTMB/FM](/publication/GPS_DTV_FM/)</b> <br>
+Li Cong, <b>Haidong Wang</b>, Honglei Qin, Luqi Liu, <i>Sensors</i>, 2018 (In submission)
