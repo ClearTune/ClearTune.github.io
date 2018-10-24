@@ -1,5 +1,5 @@
 ---
-title: "An Environmentally Adaptive Positioning Method Based on Integration of GPS\/DTMB\/FM"
+title: "An Environmentally Adaptive Positioning Method Based on Integration of "
 collection: publications
 permalink: /publication/GPS_DTMB_FM
 date: 2018
