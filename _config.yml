@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haidong Wang"
 title_separator          : "-"
 name                     : &name "Haidong Wang"
-description              : &description "Master's student. School of Electronic and Information Engineering, Beihang University"
+description              : &description "Master's student.<br>School of Electronic and Information Engineering, Beihang University"
 url                      : https://cleartune.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ClearTune/ClearTune.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Haidong Wang"
   avatar           : "Me.jpg"
-  bio              : "Master's student. <br>School of Electronic and Information Engineering, Beihang University"
+  bio              : "Master's student.<br>School of Electronic and Information Engineering, Beihang University"
   location         : "Beijing, China"
   employer         :
   googlescholar    :

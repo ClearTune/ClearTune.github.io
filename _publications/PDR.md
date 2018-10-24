@@ -2,7 +2,7 @@
 title: "A Real-time Pedestrian Dead Reckoning System with FM-aided Motion Mode Recognition"
 collection: publications
 permalink: /publication/PDR
-date: 2018-07-30
+# date: 2018-07-30
 # venue: 'IEEE Sensors Journal'
 # paperurl: 'https://cleartune.github.io/files/paper1.pdf'
 citation: '<b>Haidong Wang</b>, Li Cong, Honglei Qin. Under minor revision for <i>IEEE Sensors Journal</i>.'

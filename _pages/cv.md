@@ -10,4 +10,4 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-[Click to view my up-to-date Curriculum Vitae (PDF)](https://cleartune.github.io/files/CV_HaidongWang.pdf)
+[Click to view my up-to-date Curriculum Vitae (PDF)](/files/CV_HaidongWang.pdf)
