@@ -19,3 +19,9 @@ redirect_from:
 - Designed and implemented a digital frequency meter with LCD display and ability to measure frequency, period, interval and duty cycle. 
 - <b>Second Prize</b>, National Undergraduate Electronic Design Contest (Beijing Division), 2015.
 - My contribution: team member, individually implemented display control with ARM board, participated in system design and implementation of communication between ARM and FPGA. 
+
+<b style="font-size:18pt">Digital Image Processing</b>, 2015
+- Implemented with MATLAB image transformation, compression, restoration, segmentation, edge detection and feature extraction. 
+
+<b style="font-size:18pt">Simulation of a Digital Communication System</b>, 2015
+- Simulated a digital communication system with MATLAB and validated bit error rate curve. 
