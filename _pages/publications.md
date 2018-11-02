@@ -21,5 +21,5 @@ author_profile: true
 <b>[A Real-time Pedestrian Dead Reckoning System with FM-aided Motion Mode Recognition](https://cleartune.github.io/publication/PDR)</b> <br>
 <b>Haidong Wang</b>, Li Cong, Honglei Qin, <i>IEEE Sensors Journal</i>, 2018 (Under minor revision)
 
-<b>[An Environmentally Adaptive Positioning Method Based on Integration of GPS/DTMB/FM](https://cleartune.github.io/publication/GPS_DTV_FM)</b> <br>
+<b>[An Environmentally Adaptive Positioning Method Based on Integration of GPS/DTMB/FM](https://cleartune.github.io/publication/GPS_DTMB_FM)</b> <br>
 Li Cong, <b>Haidong Wang</b>, Honglei Qin, Luqi Liu, <i>Sensors</i>, 2018 (Under revision)
