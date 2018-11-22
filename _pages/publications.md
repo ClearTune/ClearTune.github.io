@@ -18,8 +18,8 @@ author_profile: true
 <!-- <style>a:hover {text-decoration:underline;}</style> -->
 
 
-<b>[FM-Aided Heuristic Drift Reduction for Pedestrian Dead Reckoning Systems](https://cleartune.github.io/publication/PDR)</b> <br> 
+<b>[FM-Aided Heuristic Drift Reduction for Pedestrian Dead Reckoning Systems](https://cleartune.github.io/publication/PDR) [[PDF](https://cleartune.github.io/files/Paper_PDR.pdf)]</b> <br> 
 <b>Haidong Wang</b>, Li Cong, Honglei Qin, <i>IEEE Sensors Journal</i>, 2018 (Accepted)
 
-<b>[An Environmentally Adaptive Positioning Method Based on Integration of GPS/DTMB/FM](https://cleartune.github.io/publication/GPS_DTMB_FM)</b> <br>
+<b>[An Environmentally Adaptive Positioning Method Based on Integration of GPS/DTMB/FM](https://cleartune.github.io/publication/GPS_DTMB_FM) [[PDF]](https://cleartune.github.io/files/Paper_GPS_DTMB_FM.pdf)</b> <br>
 Li Cong, <b>Haidong Wang</b>, Honglei Qin, Luqi Liu, <i>Sensors</i>, 2018 (Under revision)
