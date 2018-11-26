@@ -22,4 +22,4 @@ author_profile: true
 <b>Haidong Wang</b>, Li Cong, Honglei Qin, <i>IEEE Sensors Journal</i>, 2018 (Accepted)
 
 <b>[An Environmentally Adaptive Positioning Method Based on Integration of GPS/DTMB/FM](https://cleartune.github.io/publication/GPS_DTMB_FM)  [[PDF]](https://cleartune.github.io/files/Paper_GPS_DTMB_FM.pdf)</b> <br>
-Li Cong, <b>Haidong Wang</b>, Honglei Qin, Luqi Liu, <i>Sensors</i>, 2018 (Under revision)
+Li Cong, <b>Haidong Wang</b>, Honglei Qin, Luqi Liu, <i>Sensors</i>, 2018 (Accepted)
