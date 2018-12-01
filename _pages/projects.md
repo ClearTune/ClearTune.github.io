@@ -17,7 +17,7 @@ redirect_from:
 <!-- ## Digital Frequency Meter -->
 <b style="font-size:18pt">Digital Frequency Meter Design</b>, 2015
 - Designed and implemented a digital frequency meter with LCD display and ability of measuring frequency, period, interval and duty cycle. 
-- <b>Second Prize</b>, National Undergraduate Electronic Design Contest (Beijing Division), 2015.
+- <b>Second Prize</b>, National Undergraduate Electronic Design Contest (Beijing Division), Beijing Municipal Commission of Education, 2015.
 - My contribution: team member, individually implemented display control with ARM board, participated in system design and implementation of communication between ARM and FPGA. 
 
 <b style="font-size:18pt">Digital Image Processing</b>, 2015
