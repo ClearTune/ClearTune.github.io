@@ -2,10 +2,10 @@
 title: "FM-Aided Heuristic Drift Reduction for\\Pedestrian Dead Reckoning Systems"
 collection: publications
 permalink: /publication/PDR
-# date: 2018-07-30
-# venue: 'IEEE Sensors Journal'
+date: 2018-11-27
+venue: 'IEEE Sensors Journal'
 # paperurl: 'https://cleartune.github.io/files/paper1.pdf'
-citation: '<b>Haidong Wang</b>, Li Cong, Honglei Qin. Under minor revision for <i>IEEE Sensors Journal</i>.'
+citation: 'Haidong Wang, Li Cong and Honglei Qin. "FM-Aided Heuristic Drift Reduction for Pedestrain Dead Reckoning Systems," <i>IEEE Sensors Journal</i>, 2018.'
 ---
 
 [[PDF]](https://cleartune.github.io/files/Paper_PDR.pdf)
