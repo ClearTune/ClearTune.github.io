@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I'm a Master's student in [Beihang University](http://www.buaa.edu.cn), China. I received my Bachelor's degree in *Electronic and Information Engineering* in [Beihang University](http://www.buaa.edu.cn) in 2016. [[Curriculum Vitae]](https://cleartune.github.io/files/CV_HaidongWang.pdf)
+- I'm a Master's student majoring in Information and Communication Engineering in [Beihang University](http://www.buaa.edu.cn), China. I received my Bachelor's degree in Electronic  Information Engineering in [Beihang University](http://www.buaa.edu.cn) in 2016. [[Curriculum Vitae]](https://cleartune.github.io/files/CV_HaidongWang.pdf)
 - My current research topic is positioning and information fusion. More specifically, my research focuses on indoor positioning with multi-sensor data. 
 
 <p align="center">
